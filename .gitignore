@@ -1,0 +1,22 @@
+# Node.js dependencies
+/node_modules/
+
+# Loggfiler
+*.log
+
+# Operativsystemspecifika filer
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# Temporära eller komprimerade filer
+*.bak
+*.tmp
+*.swp
+
+# VSCodens metadata
+.vscode/
+
+# NPM logs
+npm-debug.log*
+
+
